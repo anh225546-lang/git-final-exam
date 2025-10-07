@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Nguyễn Tuấn Anh
+=======
 Xin chào, tôi là Nguyễn Tuấn Anh
-Conflict resolved on 07/10/2025
+>>>>>>> feature-update
 Tôi tên là Trần Tuấn Anh.
 Sinh viên ngành Công nghệ thông tin.
 Hiện đang học tại Trường Đại học Nam Cần Thơ.
