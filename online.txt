@@ -1,3 +1,5 @@
 Đây là file được tạo trên GitHub.
 Thực hành Git bài 7.
 Lệnh pull sẽ đồng bộ file này về local.
+Đây là dòng thêm từ local.
+File này đã được cập nhật cục bộ.
