@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản dễ dàng và an toàn.
 - Dễ dàng theo dõi thay đổi của từng thành viên trong nhóm.
 - Hỗ trợ khôi phục lỗi và hợp nhất mã nhanh chóng.
+- Tôi thấy Git rất mạnh mẽ khi làm việc nhóm.
+- Tuy hơi phức tạp lúc đầu, nhưng càng dùng càng hiểu giá trị của nó.
