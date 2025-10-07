@@ -14,3 +14,9 @@ Kỹ năng:
 - C# / WinForms
 - Git và GitHub cơ bản
 - SQL và LINQ to SQL
+Kế hoạch học tập:
+- Ôn tập lại toàn bộ lệnh Git cơ bản mỗi ngày.
+- Học thêm các lệnh nâng cao như rebase, stash, merge conflict.
+- Thực hành tạo project nhóm trên GitHub.
+- Viết tài liệu mô tả quy trình làm việc nhóm với Git.
+- Ứng dụng Git vào quản lý mã nguồn đồ án cuối kỳ.
