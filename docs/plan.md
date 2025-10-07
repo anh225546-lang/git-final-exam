@@ -13,3 +13,6 @@
 8. Học cách viết README và tài liệu project.  
 9. Luyện kỹ năng merge conflict.  
 10. Đặt mục tiêu tuần tiếp theo.
++ Thêm kế hoạch marketing cho quý 4
++ Chuẩn bị nội dung truyền thông
++ Liên hệ đối tác quảng cáo
