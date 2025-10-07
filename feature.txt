@@ -1,0 +1,8 @@
+# Mô tả tính năng mới
+
+Tính năng: Quản lý người dùng (User Management).  
+1. Cho phép thêm, sửa, xóa người dùng.  
+2. Hỗ trợ phân quyền theo vai trò (Admin, Staff).  
+3. Lưu thông tin vào cơ sở dữ liệu.  
+4. Tích hợp chức năng tìm kiếm người dùng.  
+5. Giao diện thân thiện, dễ sử dụng.
