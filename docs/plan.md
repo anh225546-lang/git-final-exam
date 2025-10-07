@@ -14,10 +14,16 @@
 9. Luyện kỹ năng merge conflict.  
 10. Đặt mục tiêu tuần tiếp theo.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 + Thêm kế hoạch marketing cho quý 4
 + Chuẩn bị nội dung truyền thông
 + Liên hệ đối tác quảng cáo
 =======
 + Dòng mới đầu tiên 
 + Dòng mới thứ 2
+>>>>>>> Stashed changes
+=======
++ Thêm kế hoạch marketing cho quý 4
++ Chuẩn bị nội dung truyền thông
++ Liên hệ đối tác quảng cáo
 >>>>>>> Stashed changes
